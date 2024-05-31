@@ -199,7 +199,7 @@ nav a.router-link-exact-active {
 
 .nav-link:hover {
   /* Hover color */
-  color: black; /* Set your hover color here */
+  color: var(--lightenedCream); /* Set your hover color here */
   /* Other CSS properties */
 }
 
